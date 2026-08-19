@@ -109,37 +109,51 @@ I am a driven software engineer with a strong foundation in modern web developme
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<h2 align="center">🚀 MISSION CONTROL & CONTACT</h2>
+
 <table width="100%" align="center">
   <tr>
-    <td width="33%" valign="top">
-      <h3>🚀 Quick Links</h3>
-      <ul>
-        <li><a href="https://codewitharyan-01.github.io/Aryaan.Portfolio/">Official Portfolio</a></li>
-        <li><a href="https://forb-tech-solutions.vercel.app/">Forb Tech Solutions</a></li>
-        <li><a href="https://drive.google.com/drive/folders/1NZ4_c-myM6GUpjN6iUNNDjsrLJm0QvQd">Verified Certificates</a></li>
-        <li><a href="./Aryan_Patel_Resume.pdf">Download Resume (.pdf)</a></li>
-      </ul>
+    <td width="33%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jYaMpi/giphy.gif" width="120" style="border-radius:15px;" />
+      <br><br>
+      <b>Let's Build the Future</b>
+      <br>
+      <i>Always open to discussing system architecture, startups, and AI integrations.</i>
     </td>
-    <td width="33%" valign="top">
-      <h3>⚡ Current Status</h3>
-      <ul>
-        <li>🟢 <b>Open to Work:</b> Actively seeking high-impact engineering roles.</li>
-        <li>🟢 <b>Freelance:</b> Available for enterprise consulting & architecture.</li>
-        <li>🟢 <b>Timezone:</b> IST (Flexible for global remote collaboration).</li>
-      </ul>
+    <td width="33%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" style="border-radius:15px;" />
+      <br><br>
+      <b>Quick Actions</b>
+      <br>
+      <a href="https://codewitharyan-01.github.io/Aryaan.Portfolio/">Official Portfolio</a><br>
+      <a href="https://forb-tech-solutions.vercel.app/">Forb Tech Solutions</a><br>
+      <a href="./Aryan_Patel_Resume.pdf">Download Resume (.pdf)</a>
     </td>
-    <td width="33%" valign="top">
-      <h3>📫 Let's Connect</h3>
-      <p>I am always open to discussing tech, startups, or potential collaborations. Drop me a message anytime!</p>
-      <a href="mailto:happier.aryan@gmail.com"><img src="https://img.shields.io/badge/Email_Me-2b3440?style=flat-square&logo=gmail&logoColor=white" /></a>
-      <a href="https://wa.me/919023668571"><img src="https://img.shields.io/badge/WhatsApp_Me-2b3440?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+    <td width="33%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/LUIvcbR6yomaQ/giphy.gif" width="120" style="border-radius:15px;" />
+      <br><br>
+      <b>Direct Comms</b>
+      <br>
+      <a href="mailto:happier.aryan@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2b3440?style=flat-square&logo=gmail&logoColor=white" /></a><br>
+      <a href="https://wa.me/919023668571"><img src="https://img.shields.io/badge/WHATSAPP-2b3440?style=flat-square&logo=whatsapp&logoColor=white" /></a>
     </td>
   </tr>
 </table>
 
-<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 <div align="center">
-  <i>"The best way to predict the future is to invent it."</i> — Alan Kay<br><br>
-  <img src="https://komarev.com/ghpvc/?username=codewitharyan-01&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views" />
+  <br>
+  <i>"Software is eating the world, but AI is going to write the menu."</i><br><br>
+  <img src="https://komarev.com/ghpvc/?username=codewitharyan-01&label=GLOBAL_SYSTEM_PINGS&color=2563eb&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,22,23,24,25,26&height=120&section=footer" width="100%" />
 </div>
