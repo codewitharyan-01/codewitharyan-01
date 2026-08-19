@@ -86,7 +86,7 @@ I am a driven software engineer with a strong foundation in modern web developme
 <div align="center">
   <!-- Minimal Stats and Streak side by side -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewitharyan-01&theme=github" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=codewitharyan-01&theme=default&hide_border=true&title_color=2b3440&text_color=555555&icon_color=2563eb&ring=2563eb&fire=2563eb&currStreakNum=2563eb" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewitharyan-01&theme=default&hide_border=true&title_color=2b3440&text_color=555555&icon_color=2563eb&ring=2563eb&fire=2563eb&currStreakNum=2563eb" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
