@@ -77,16 +77,18 @@ I am a driven software engineer with a strong foundation in modern web developme
 ## 📊 Developer Analytics
 
 <div align="center">
-  <!-- Comprehensive Profile Details Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewitharyan-01&theme=github" alt="GitHub Profile Details" width="100%" />
+  <!-- Reliable GitHub Readme Stats: General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=codewitharyan-01&show_icons=true&theme=default&hide_border=true&title_color=2b3440&text_color=555555&icon_color=2563eb&bg_color=ffffff" alt="Aryan's GitHub Stats" width="48%" />
+  
+  <!-- Reliable GitHub Readme Stats: Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitharyan-01&layout=compact&theme=default&hide_border=true&title_color=2b3440&text_color=555555&bg_color=ffffff" alt="Top Langs" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Minimal Stats and Streak side by side -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewitharyan-01&theme=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewitharyan-01&theme=default&hide_border=true&title_color=2b3440&text_color=555555&icon_color=2563eb&ring=2563eb&fire=2563eb&currStreakNum=2563eb" alt="GitHub Streak" width="48%" />
+  <!-- GitHub Trophies (Highly reliable, visual flair) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=codewitharyan-01&theme=flat&no-frame=true&no-bg=true&margin-w=15&title_color=2b3440" alt="Trophies" width="100%" />
 </div>
 
 ---
