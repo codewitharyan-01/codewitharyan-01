@@ -77,14 +77,16 @@ I am a driven software engineer with a strong foundation in modern web developme
 ## 📊 Developer Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewitharyan-01&show_icons=true&theme=blue-green&hide_border=true" alt="Stats" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=codewitharyan-01&theme=blue-green&hide_border=true" alt="Streak" height="170" />
+  <!-- Comprehensive Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewitharyan-01&theme=github" alt="GitHub Profile Details" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewitharyan-01&theme=github&hide_border=true&area=true&color=2563eb&line=2563eb&point=2b3440" alt="Activity Graph" width="100%" />
+  <!-- Minimal Stats and Streak side by side -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewitharyan-01&theme=github" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=codewitharyan-01&theme=default&hide_border=true&title_color=2b3440&text_color=555555&icon_color=2563eb&ring=2563eb&fire=2563eb&currStreakNum=2563eb" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
@@ -96,28 +98,28 @@ I am a driven software engineer with a strong foundation in modern web developme
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=codewitharyan-01&label=Visitors&color=2b3440&style=flat-square" alt="Profile Views" />
-</div>
+<br>
 
 ---
 
-<!-- Useful Footer -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <b>🤝 Open for collaborations!</b><br>
-      Feel free to reach out via <a href="mailto:happier.aryan@gmail.com">Email</a> or <a href="https://wa.me/919023668571">WhatsApp</a> for project inquiries, tech discussions, or hackathons.
-    </td>
-    <td align="center" width="50%">
-      <b>🚀 Keep Building</b><br>
-      <i>"First, solve the problem. Then, write the code." – John Johnson</i>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2>🌟 Let's Build Something Amazing Together!</h2>
+  <p><i>"The best way to predict the future is to invent it."</i> — Alan Kay</p>
+  <br>
+  <a href="mailto:happier.aryan@gmail.com">
+    <img src="https://img.shields.io/badge/Get_In_Touch-2563EB?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact Me" />
+  </a>
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back_To_Top-000000?style=for-the-badge&logo=target&logoColor=white" alt="Back To Top" />
+  </a>
+</div>
 
 <br>
+
 <div align="center">
-  <a href="#top"><img src="https://img.shields.io/badge/🔼_Back_To_Top-2b3440?style=for-the-badge" alt="Back to Top" /></a>
+  <img src="https://komarev.com/ghpvc/?username=codewitharyan-01&label=Profile%20Views&color=2b3440&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,8,22,23,24,25,26&height=100&section=footer" width="100%" />
 </div>
