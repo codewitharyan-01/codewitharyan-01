@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:255E63,100:0e75b6&height=250&section=header&text=Hi,%20I'm%20Aryan%20Patel!%20%F0%9F%91%8B&fontSize=50&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20AI%20Prompt%20Engineer&descAlignY=55&descAlign=55" width="100%" />
 </div>
 
-<h3 align="center">Architecting Scalable Web Applications & AI-Driven Solutions ⚡</h3>
+<h2 align="center">Architecting Scalable Web Applications & AI-Driven Solutions ⚡</h2>
 
 <p align="center">
-  <i>Transforming coffee into cutting-edge code and solving complex problems with AI.</i>
+  <kbd><i>"Code is poetry, and I write to build the future."</i></kbd>
 </p>
 
-<!-- Social Links (Centered & Modern) -->
+<!-- Social Links (Dashboard Style) -->
 <div align="center">
   <a href="https://codewitharyan-01.github.io/Aryaan.Portfolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:happier.aryan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -22,7 +22,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/codewitharyan-01">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Development;AI+Prompt+Engineering;React.js,+PHP,+and+MySQL;IT+Support+%26+Social+Media;Building+the+Future+with+Code!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Development;AI+Prompt+Engineering;React.js,+PHP,+and+MySQL;IT+Support+%26+Social+Media;Building+the+Future+with+Code!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,7 +32,9 @@
   <tr>
     <td width="55%" valign="top">
       <h2>🧑‍🚀 About Me</h2>
-      <p>I'm an ambitious and highly motivated <b>Computer Engineering student (SVBIT, Gandhinagar)</b>. I specialize in building high-performance web applications and integrating cutting-edge AI tools to solve complex business problems.</p>
+      <blockquote>
+        I'm an ambitious and highly motivated <b>Computer Engineering student (SVBIT, Gandhinagar)</b>. I specialize in building high-performance web applications and integrating cutting-edge AI tools to solve complex business problems.
+      </blockquote>
       <br>
       <p>🎯 <b>Current Focus:</b> Spearheading <b>Wispa Ai</b> (Startup supported by SSIP Govt. of India) and <b>Forb-Tech-solutions</b>.</p>
       <p>🏆 <b>Top Achievement:</b> Ideathon 2nd Runner-Up (Awarded ₹30,000 for innovative tech solutions).</p>
@@ -40,28 +42,42 @@
       <p>🌟 <b>Certifications:</b> AI Prompt Engineering, ChatGPT Mastery, Cyber Hygiene & Data Analysis.</p>
     </td>
     <td width="45%" valign="top">
-      <h2>🛠️ My Tech Arsenal</h2>
+      <h2>🛠️ Tech Arsenal</h2>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=php,react,js,ts,html,css,mysql,wordpress,git,vscode,github,discord,figma,postman&perline=5" />
       </p>
+      <br>
+      <div align="center">
+        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&font=cascadia_code" alt="Random Dev Quote" />
+      </div>
     </td>
   </tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🏆 Official Credentials
+## 📈 Activity & Stats
 
 <div align="center">
-  <p><i>View my official certificates and verified credentials below:</i></p>
-  <a href="https://drive.google.com/drive/folders/1NZ4_c-myM6GUpjN6iUNNDjsrLJm0QvQd" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_Certificates-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Certificates" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewitharyan-01&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewitharyan-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Aryan's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=codewitharyan-01&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="Aryan's GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codewitharyan-01&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
 ---
 
-## 💻 Elite Projects
+## 💻 Elite Projects & Business Impact
 
 | Project Name | Highlights & Business Impact | Tech Stack |
 | :--- | :--- | :--- |
@@ -70,25 +86,21 @@
 | 🏗️ **Forb-Tech-solutions** | Highly scalable, TypeScript based enterprise solutions. | `TypeScript`, `Node.js` |
 | 🏢 **om-real-estate** | Modern Real estate platform built with reactive UI components. | `JavaScript`, `React` |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<br>
 
-## 📈 GitHub Trophies & Stats
+## 🏆 Verified Credentials
 
 <div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=codewitharyan-01&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <p><i>View my official certificates and verified credentials below:</i></p>
+  <a href="https://drive.google.com/drive/folders/1NZ4_c-myM6GUpjN6iUNNDjsrLJm0QvQd" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Drive-Verified_Certificates-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Certificates" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=codewitharyan-01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="500" alt="Hacker GIF" />
 </div>
 
 <div align="center">
