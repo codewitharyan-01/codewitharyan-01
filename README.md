@@ -59,9 +59,35 @@ I am a driven software engineer with a strong foundation in modern web developme
 
 ---
 
-## 📊 Developer Analytics
+## 📊 Developer Analytics & GitHub Metrics
 
-*Since third-party API stats are being blocked by GitHub's image caching, here is a breakdown of my core technical stack and open-source metrics:*
+<p align="center">
+  <i>(Note: If charts fail to load, please give GitHub's image cache a few minutes to refresh or press Ctrl+Shift+R)</i>
+</p>
+
+<div align="center">
+  <!-- GitHub Profile Summary Cards (Detailed Charts) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewitharyan-01&theme=default" alt="Profile Details Chart" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- General Stats and Streak Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=codewitharyan-01&show_icons=true&theme=default&hide_border=true&title_color=2b3440&text_color=555555&icon_color=2563eb&bg_color=ffffff" alt="Aryan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewitharyan-01&theme=default&hide_border=true&title_color=2b3440&text_color=555555&icon_color=2563eb&ring=2563eb&fire=2563eb&currStreakNum=2563eb" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Top Languages Chart -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitharyan-01&layout=donut&theme=default&hide_border=true&title_color=2b3440&text_color=555555&bg_color=ffffff" alt="Top Langs Chart" width="48%" />
+  <!-- GitHub Gamified Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=codewitharyan-01&theme=flat&no-frame=true&no-bg=true&margin-w=15&title_color=2b3440" alt="Trophies" width="48%" />
+</div>
+
+<br>
 
 <table width="100%" align="center">
   <tr>
