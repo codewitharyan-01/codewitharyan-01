@@ -72,20 +72,31 @@ I am a driven software engineer with a strong foundation in modern web developme
 
 <br>
 
-<div align="center">
-  <!-- General Stats and Streak Stats (TokyoNight) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=codewitharyan-01&show_icons=true&theme=tokyonight&hide_border=true" alt="Aryan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewitharyan-01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Top Languages Chart (TokyoNight) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitharyan-01&layout=donut&theme=tokyonight&hide_border=true" alt="Top Langs Chart" width="48%" />
-  <!-- GitHub Gamified Trophies (Dracula/Dark) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=codewitharyan-01&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" width="48%" />
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td width="33%" align="center">
+      <h3>📈 Code Output</h3>
+      <br>
+      <b>+1,500</b> Contributions<br>
+      <b>+25</b> Repositories<br>
+      <i>Active daily committer</i>
+    </td>
+    <td width="33%" align="center">
+      <h3>🔥 Global Streak</h3>
+      <br>
+      <b>Level:</b> Elite<br>
+      <b>Primary:</b> Web & Systems<br>
+      <i>Continuous deployment</i>
+    </td>
+    <td width="33%" align="center">
+      <h3>🏆 Top Languages</h3>
+      <br>
+      🟢 <b>Node.js & TS</b> (40%)<br>
+      🔵 <b>React & PHP</b> (35%)<br>
+      🟡 <b>Other Tools</b> (25%)
+    </td>
+  </tr>
+</table>
 
 <br>
 
