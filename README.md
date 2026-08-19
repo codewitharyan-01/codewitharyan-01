@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:255E63,100:0e75b6&height=250&section=header&text=Hi,%20I'm%20Aryan%20Patel!%20%F0%9F%91%8B&fontSize=50&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20AI%20Prompt%20Engineer&descAlignY=55&descAlign=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving2&color=0:FF0000,100:0000FF&height=300&section=header&text=ARYAN%20PATEL%20//%20DEV&fontSize=70&animation=pulse&fontAlignY=40&desc=BUILDING%20THE%20WEB%20OF%20TOMORROW&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <h2 align="center">Architecting Scalable Web Applications & AI-Driven Solutions ⚡</h2>
@@ -22,11 +22,11 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/codewitharyan-01">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Development;AI+Prompt+Engineering;React.js,+PHP,+and+MySQL;IT+Support+%26+Social+Media;Building+the+Future+with+Code!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF3366&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Development;AI+Prompt+Engineering;React.js,+PHP,+and+MySQL;IT+Support+%26+Social+Media;Building+the+Future+with+Code!" alt="Typing SVG" />
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
@@ -48,31 +48,31 @@
       </p>
       <br>
       <div align="center">
-        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&font=cascadia_code" alt="Random Dev Quote" />
+        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=synthwave&font=cascadia_code" alt="Random Dev Quote" />
       </div>
     </td>
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 
 ## 📈 Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewitharyan-01&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewitharyan-01&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewitharyan-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Aryan's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=codewitharyan-01&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="Aryan's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewitharyan-01&show_icons=true&theme=synthwave&hide_border=true&hide_title=true&bg_color=00000000" alt="Aryan's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=codewitharyan-01&theme=synthwave&hide_border=true&background=00000000" alt="Aryan's GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewitharyan-01&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codewitharyan-01&theme=synthwave&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Trophies" />
 </div>
 
 ---
@@ -100,9 +100,9 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewitharyan-01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=codewitharyan-01&label=Profile%20Views&color=FF3366&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:255E63,100:0e75b6&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving2&color=0:FF0000,100:0000FF&height=100&section=footer" width="100%" />
 </div>
