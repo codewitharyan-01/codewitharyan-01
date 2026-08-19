@@ -77,8 +77,8 @@ I am a driven software engineer with a strong foundation in modern web developme
 ## 📊 Developer Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewitharyan-01&show_icons=true&theme=default&hide_border=true&title_color=2b3440&text_color=555555&icon_color=2563eb" alt="Stats" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=codewitharyan-01&theme=default&hide_border=true&title_color=2b3440&text_color=555555&icon_color=2563eb&ring=2563eb&fire=2563eb&currStreakNum=2563eb" alt="Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewitharyan-01&show_icons=true&theme=blue-green&hide_border=true" alt="Stats" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=codewitharyan-01&theme=blue-green&hide_border=true" alt="Streak" height="170" />
 </div>
 
 <br>
@@ -101,6 +101,23 @@ I am a driven software engineer with a strong foundation in modern web developme
   <img src="https://komarev.com/ghpvc/?username=codewitharyan-01&label=Visitors&color=2b3440&style=flat-square" alt="Profile Views" />
 </div>
 
+---
+
+<!-- Useful Footer -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <b>🤝 Open for collaborations!</b><br>
+      Feel free to reach out via <a href="mailto:happier.aryan@gmail.com">Email</a> or <a href="https://wa.me/919023668571">WhatsApp</a> for project inquiries, tech discussions, or hackathons.
+    </td>
+    <td align="center" width="50%">
+      <b>🚀 Keep Building</b><br>
+      <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+    </td>
+  </tr>
+</table>
+
+<br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,8,22,23,24,25,26&height=100&section=footer" width="100%" />
+  <a href="#top"><img src="https://img.shields.io/badge/🔼_Back_To_Top-2b3440?style=for-the-badge" alt="Back to Top" /></a>
 </div>
