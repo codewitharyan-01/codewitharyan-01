@@ -72,7 +72,7 @@ I am a driven software engineer with a strong foundation in modern web developme
 
 <br>
 
-<table width="100%" align="center">
+<table width="100%" align="center" border="1" cellpadding="10">
   <tr>
     <td width="33%" align="center">
       <h3>📈 Code Output</h3>
@@ -126,7 +126,7 @@ I am a driven software engineer with a strong foundation in modern web developme
 
 <h2 align="center">🚀 MISSION CONTROL & CONTACT</h2>
 
-<table width="100%" align="center">
+<table width="100%" align="center" border="1" cellpadding="10">
   <tr>
     <td width="33%" align="center" valign="top">
       <img src="https://media.giphy.com/media/26tn33aiTi1jYaMpi/giphy.gif" width="120" style="border-radius:15px;" />
