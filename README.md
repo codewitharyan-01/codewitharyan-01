@@ -83,18 +83,37 @@ I am a driven software engineer with a strong foundation in modern web developme
 
 ---
 
-<div align="center">
-  <i>Verified Credentials and Official Certificates:</i><br><br>
-  <a href="https://drive.google.com/drive/folders/1NZ4_c-myM6GUpjN6iUNNDjsrLJm0QvQd" target="_blank">
-    <img src="https://img.shields.io/badge/View_Google_Drive-4285F4?style=flat-square&logo=google-drive&logoColor=white" alt="Certificates" />
-  </a>
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🚀 Quick Links</h3>
+      <ul>
+        <li><a href="https://codewitharyan-01.github.io/Aryaan.Portfolio/">Official Portfolio</a></li>
+        <li><a href="https://forb-tech-solutions.vercel.app/">Forb Tech Solutions</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1NZ4_c-myM6GUpjN6iUNNDjsrLJm0QvQd">Verified Certificates</a></li>
+        <li><a href="./Aryan_Patel_Resume.pdf">Download Resume (.pdf)</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ Current Status</h3>
+      <ul>
+        <li>🟢 <b>Open to Work:</b> Actively seeking high-impact engineering roles.</li>
+        <li>🟢 <b>Freelance:</b> Available for enterprise consulting & architecture.</li>
+        <li>🟢 <b>Timezone:</b> IST (Flexible for global remote collaboration).</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📫 Let's Connect</h3>
+      <p>I am always open to discussing tech, startups, or potential collaborations. Drop me a message anytime!</p>
+      <a href="mailto:happier.aryan@gmail.com"><img src="https://img.shields.io/badge/Email_Me-2b3440?style=flat-square&logo=gmail&logoColor=white" /></a>
+      <a href="https://wa.me/919023668571"><img src="https://img.shields.io/badge/WhatsApp_Me-2b3440?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=codewitharyan-01&label=Visitors&color=2b3440&style=flat-square" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,8,22,23,24,25,26&height=100&section=footer" width="100%" />
+  <i>"The best way to predict the future is to invent it."</i> — Alan Kay<br><br>
+  <img src="https://komarev.com/ghpvc/?username=codewitharyan-01&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views" />
 </div>
