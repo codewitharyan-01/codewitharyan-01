@@ -61,20 +61,25 @@ I am a driven software engineer with a strong foundation in modern web developme
 
 ## 📊 Developer Analytics
 
-<div align="center">
-  <!-- Reliable GitHub Readme Stats: General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=codewitharyan-01&show_icons=true&theme=default&hide_border=true&title_color=2b3440&text_color=555555&icon_color=2563eb&bg_color=ffffff" alt="Aryan's GitHub Stats" width="48%" />
-  
-  <!-- Reliable GitHub Readme Stats: Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitharyan-01&layout=compact&theme=default&hide_border=true&title_color=2b3440&text_color=555555&bg_color=ffffff" alt="Top Langs" width="48%" />
-</div>
+*Since third-party API stats are being blocked by GitHub's image caching, here is a breakdown of my core technical stack and open-source metrics:*
 
-<br>
-
-<div align="center">
-  <!-- GitHub Trophies (Highly reliable, visual flair) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=codewitharyan-01&theme=flat&no-frame=true&no-bg=true&margin-w=15&title_color=2b3440" alt="Trophies" width="100%" />
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔥 Open Source Activity</h3>
+      <ul>
+        <li>🚀 Consistent daily commits & repository contributions.</li>
+        <li>💡 Heavily focused on Full-Stack architectures & React components.</li>
+        <li>📈 Active participant in university tech ecosystems (Google Student Ambassador).</li>
+        <li>⚙️ Primary languages: <b>TypeScript</b>, <b>JavaScript</b>, <b>PHP</b>.</li>
+      </ul>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🚀 Core Technologies Used</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,php,react,nodejs,mysql&theme=light&perline=3" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
