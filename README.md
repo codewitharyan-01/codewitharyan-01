@@ -1,26 +1,41 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,8,22,23,24,25,26&height=200&section=header&text=Hello,%20I'm%20Aryan%20Patel&fontSize=45&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20AI%20Specialist&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Aryan%20Patel&fontSize=70&fontAlignY=35&desc=Visionary%20Software%20Engineer%20%7C%20AI%20Specialist&descAlignY=55&descSize=20" width="100%" />
 </div>
 
+<h2 align="center">Building the Next Generation of Digital Experiences 🚀</h2>
 <p align="center">
-  <b>Transforming complex problems into elegant, scalable web solutions.</b><br>
   <i>Student at SVBIT • Founder of Forb Tech Solutions • AI Prompt Engineer</i>
 </p>
 
 <div align="center">
-  <a href="https://codewitharyan-01.github.io/Aryaan.Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2b3440?style=flat-square&logo=Web&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://forb-tech-solutions.vercel.app/"><img src="https://img.shields.io/badge/Forb_Tech_Solutions-2b3440?style=flat-square&logo=Vercel&logoColor=white" alt="Company" /></a>
-  <a href="mailto:happier.aryan@gmail.com"><img src="https://img.shields.io/badge/Email-2b3440?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/919023668571"><img src="https://img.shields.io/badge/WhatsApp-2b3440?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://www.youtube.com/@Gsa-3"><img src="https://img.shields.io/badge/YouTube-2b3440?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="./Aryan_Patel_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-2b3440?style=flat-square&logo=Adobe-Acrobat-Reader&logoColor=white" alt="Resume" /></a>
+  <a href="https://codewitharyan-01.github.io/Aryaan.Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://forb-tech-solutions.vercel.app/">
+    <img src="https://img.shields.io/badge/Forb_Tech-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Company" />
+  </a>
+  <a href="mailto:happier.aryan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/919023668571">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.youtube.com/@Gsa-3">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.instagram.com/aryan_0410_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="./Aryan_Patel_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=Adobe-Acrobat-Reader&logoColor=white" alt="Resume" />
+  </a>
 </div>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/codewitharyan-01">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=2b3440&center=true&vCenter=true&width=800&lines=Building+impactful+software.;Scaling+startups+with+modern+tech.;Bringing+AI+into+everyday+workflows.;Passionate+about+clean+code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Building+impactful+software.;Scaling+startups+with+modern+tech.;Bringing+AI+into+everyday+workflows.;Passionate+about+clean+code." alt="Typing SVG" />
   </a>
 </p>
 
