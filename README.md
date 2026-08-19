@@ -1,105 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving2&color=0:FF0000,100:0000FF&height=300&section=header&text=ARYAN%20PATEL%20//%20DEV&fontSize=70&animation=pulse&fontAlignY=40&desc=BUILDING%20THE%20WEB%20OF%20TOMORROW&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,28,4&height=250&section=header&text=WELCOME%20TO%20MY%20DIGITAL%20WORKSPACE&fontSize=40&fontAlignY=38&desc=Aryan%20Patel%20-%20Full%20Stack%20Engineer&descAlignY=55&descAlign=55&animation=fadeIn" width="100%" />
 </div>
 
-<!-- 1. Custom "Hire Me" Call-to-Action & Resume Link -->
+<h2 align="center">Architecting Scalable Web Applications & AI-Driven Solutions ⚡</h2>
+
+<p align="center">
+  <kbd><i>"Code is poetry, and I write to build the future."</i></kbd>
+</p>
+
+<!-- Social Links (Dashboard Style) -->
 <div align="center">
-  <a href="mailto:happier.aryan@gmail.com">
-    <img src="https://img.shields.io/badge/Status-OPEN_TO_WORK-00FF00?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Hire Me" />
-  </a>
-  <a href="https://drive.google.com/drive/folders/1NZ4_c-myM6GUpjN6iUNNDjsrLJm0QvQd">
-    <img src="https://img.shields.io/badge/Download_Resume-FF3366?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
-  </a>
+  <a href="https://codewitharyan-01.github.io/Aryaan.Portfolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:happier.aryan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/919023668571"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.youtube.com/@Gsa-3"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/aryan_0410_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 <br>
 
-<!-- 2. Terminal-Style "About Me" -->
-<div align="center">
-  <h3>💻 System Boot: root@aryan-patel ~</h3>
-</div>
-<pre>
-<code>
-$ whoami
-> Aryan Patel, Computer Engineering Student (SVBIT, Gandhinagar)
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/codewitharyan-01">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=ff007f&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Development;AI+Prompt+Engineering;React.js,+PHP,+and+MySQL;IT+Support+%26+Social+Media;Building+the+Future+with+Code!" alt="Typing SVG" />
+  </a>
+</p>
 
-$ cat skills.txt
-> Building high-performance web applications.
-> Integrating cutting-edge AI tools (Wispa Ai).
-> Solving complex business problems.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-$ ls achievements/
-> Ideathon_2nd_Runner_Up_30k_Winner.exe
-> Google_Student_Ambassador.sh
-> Certifications/ (AI Prompt Engineering, Cyber Hygiene, Data Analysis)
-</code>
-</pre>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
-
-<!-- 3. Current Focus Progress Bars -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h2>🧠 Skill Mastery</h2>
-      <p><b>Frontend (React, JS/TS)</b></p>
-      <p><img src="https://geps.dev/progress/90?color=0000FF" /></p>
-      <p><b>Backend (PHP, Node, MySQL)</b></p>
-      <p><img src="https://geps.dev/progress/80?color=FF0000" /></p>
-      <p><b>AI Prompt Engineering</b></p>
-      <p><img src="https://geps.dev/progress/85?color=FF3366" /></p>
+    <td width="55%" valign="top">
+      <h2>🧑‍🚀 About Me</h2>
+      <blockquote>
+        I'm an ambitious and highly motivated <b>Computer Engineering student (SVBIT, Gandhinagar)</b>. I specialize in building high-performance web applications and integrating cutting-edge AI tools to solve complex business problems.
+      </blockquote>
+      <br>
+      <p>🎯 <b>Current Focus:</b> Spearheading <b>Wispa Ai</b> (Startup supported by SSIP Govt. of India) and <b>Forb-Tech-solutions</b>.</p>
+      <p>🏆 <b>Top Achievement:</b> Ideathon 2nd Runner-Up (Awarded ₹30,000 for innovative tech solutions).</p>
+      <p>🎓 <b>Leadership:</b> Former <b>Google Student Ambassador</b> with global IT Support experience.</p>
+      <p>🌟 <b>Certifications:</b> AI Prompt Engineering, ChatGPT Mastery, Cyber Hygiene & Data Analysis.</p>
     </td>
-    <!-- 4. Interactive "Ask Me Anything" (AMA) -->
-    <td width="50%" valign="top">
-      <h2>💬 Ask Me Anything</h2>
-      <p>I love discussing web dev, AI startups, and open source!</p>
-      <a href="https://github.com/codewitharyan-01/codewitharyan-01/issues/new?title=AMA:%20&body=Hi%20Aryan!%20I%20have%20a%20question%20about...">
-        <img src="https://img.shields.io/badge/Drop_a_Question!-Ask_Me_Anything-blue?style=for-the-badge&logo=github&logoColor=white" alt="AMA" />
-      </a>
-      <br><br>
-      <!-- 5. Buy Me A Coffee / Sponsorship Widget -->
-      <h2>☕ Support My Work</h2>
-      <a href="https://www.buymeacoffee.com/aryanpatel" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
-      </a>
+    <td width="45%" valign="top">
+      <h2>🛠️ Tech Arsenal</h2>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=php,react,js,ts,html,css,mysql,wordpress,git,vscode,github,discord,figma,postman&perline=5" />
+      </p>
+      <br>
+      <div align="center">
+        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&font=cascadia_code" alt="Random Dev Quote" />
+      </div>
     </td>
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🛠️ My Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,react,js,ts,html,css,mysql,wordpress,git,vscode,github,discord,figma,postman&perline=10" />
-</p>
-
-<!-- 6. Developer Quote API -->
-<div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=synthwave&font=cascadia_code" alt="Random Dev Quote" />
-</div>
-
----
-
-<!-- 7. Profile Summary Cards (Detailed repo stats breakdown) -->
-## 📊 Detailed Analytics
+## 📈 Activity & Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewitharyan-01&theme=synthwave" alt="Summary Card" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewitharyan-01&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewitharyan-01&show_icons=true&theme=synthwave&hide_border=true&hide_title=true&bg_color=00000000" alt="Aryan's GitHub Stats" />
-  <!-- 8. LeetCode Stats Widget (Replace 'aryan' with your actual LeetCode username if different) -->
-  <img src="https://leetcard.jacoblin.cool/codewitharyan-01?theme=synthwave&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewitharyan-01&show_icons=true&theme=radical&hide_border=true&title_color=ff007f" alt="Aryan's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=codewitharyan-01&theme=radical&hide_border=true&fire=ff007f&ring=ff007f" alt="Aryan's GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewitharyan-01&theme=synthwave-compact&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codewitharyan-01&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
 ---
@@ -113,29 +86,23 @@ $ ls achievements/
 | 🏗️ **Forb-Tech-solutions** | Highly scalable, TypeScript based enterprise solutions. | `TypeScript`, `Node.js` |
 | 🏢 **om-real-estate** | Modern Real estate platform built with reactive UI components. | `JavaScript`, `React` |
 
----
+<br>
 
-## 🌍 Global Reach & Connections
+## 🏆 Verified Credentials
 
-<!-- 9. Visitor World Map Widget (ClustrMaps) -->
 <div align="center">
-  <a href="https://clustrmaps.com/site/1c2a3" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=0000000000000000000000000000000000000000000&cl=ffffff" alt="World Map Visitors Placeholder" width="400" /></a>
-  <p><i>(Map will start plotting global visitors to your profile!)</i></p>
+  <p><i>View my official certificates and verified credentials below:</i></p>
+  <a href="https://drive.google.com/drive/folders/1NZ4_c-myM6GUpjN6iUNNDjsrLJm0QvQd" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Drive-Verified_Certificates-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Certificates" />
+  </a>
 </div>
 
-<!-- 10. Dashboard Style Social Connectors -->
-<div align="center">
-  <h3>Let's collaborate!</h3>
-  <a href="https://codewitharyan-01.github.io/Aryaan.Portfolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://wa.me/919023668571"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://www.youtube.com/@Gsa-3"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.instagram.com/aryan_0410_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</div>
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewitharyan-01&label=Profile%20Views&color=FF3366&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=codewitharyan-01&label=Profile%20Views&color=ff007f&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving2&color=0:FF0000,100:0000FF&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,28,4&height=100&section=footer" width="100%" />
 </div>
