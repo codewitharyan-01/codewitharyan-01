@@ -1,28 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,8,22,23,24,25,26&height=200&section=header&text=Hello,%20I'm%20Aryan%20Patel&fontSize=45&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20AI%20Specialist&descAlignY=60&descAlign=50" width="100%" />
+  <a href="https://github.com/codewitharyan-01">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=65&pause=1500&color=00E5FF&center=true&vCenter=true&width=800&height=220&lines=ARYAN+PATEL;FULL-STACK+ENGINEER;AI+ARCHITECT" alt="Neon Title" />
+  </a>
 </div>
 
-<p align="center">
-  <b>Transforming complex problems into elegant, scalable web solutions.</b><br>
-  <i>Student at SVBIT • Founder of Forb Tech Solutions • AI Prompt Engineer</i>
-</p>
-
 <div align="center">
-  <a href="https://codewitharyan-01.github.io/Aryaan.Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2b3440?style=flat-square&logo=Web&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://forb-tech-solutions.vercel.app/"><img src="https://img.shields.io/badge/Forb_Tech_Solutions-2b3440?style=flat-square&logo=Vercel&logoColor=white" alt="Company" /></a>
-  <a href="mailto:happier.aryan@gmail.com"><img src="https://img.shields.io/badge/Email-2b3440?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/919023668571"><img src="https://img.shields.io/badge/WhatsApp-2b3440?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://www.youtube.com/@Gsa-3"><img src="https://img.shields.io/badge/YouTube-2b3440?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="./Aryan_Patel_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-2b3440?style=flat-square&logo=Adobe-Acrobat-Reader&logoColor=white" alt="Resume" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=800&height=50&lines=Transforming+complex+logic+into+elegant+systems.;Founder+@+Forb+Tech+Solutions;Google+Student+Ambassador" alt="Subtitle" />
 </div>
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/codewitharyan-01">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=2b3440&center=true&vCenter=true&width=800&lines=Building+impactful+software.;Scaling+startups+with+modern+tech.;Bringing+AI+into+everyday+workflows.;Passionate+about+clean+code." alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <a href="https://codewitharyan-01.github.io/Aryaan.Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=Web&logoColor=00E5FF&borderColor=00E5FF" alt="Portfolio" /></a>
+  <a href="https://forb-tech-solutions.vercel.app/"><img src="https://img.shields.io/badge/Forb_Tech-0D1117?style=for-the-badge&logo=Vercel&logoColor=00E5FF&borderColor=00E5FF" alt="Company" /></a>
+  <a href="mailto:happier.aryan@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&borderColor=00E5FF" alt="Email" /></a>
+  <a href="https://wa.me/919023668571"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00E5FF&borderColor=00E5FF" alt="WhatsApp" /></a>
+  <a href="./Aryan_Patel_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=Adobe-Acrobat-Reader&logoColor=00E5FF&borderColor=00E5FF" alt="Resume" /></a>
+</div>
+
+<br>
 
 ---
 
@@ -35,6 +31,22 @@ I am a driven software engineer with a strong foundation in modern web developme
 - 🏆 **Awards:** Ideathon 2nd Runner-Up (₹30,000 Prize for innovative tech solutions).
 - 🌍 **Leadership:** Served globally as a **Google Student Ambassador**.
 - 📜 **Certifications:** AI Prompt Engineering, Cyber Hygiene (Govt. of India), Full Stack PHP.
+
+---
+
+## 🎓 Education
+
+- 🎓 **B.E. in Computer Engineering** – SVBIT, Gandhinagar (*Pursuing last year* - CGPA: 8)
+- 🎓 **Diploma in Computer Engineering** – Atul Polytechnic, Khadat (*University Rank 1* - CGPA: 9.02)
+
+---
+
+## 💼 Experience & Internships
+
+- 💻 **IT Support Intern** – Ascendant Globalcredit Group (Singapore, Virtual)
+- 💻 **Frontend Developer Intern & Network Engineer** – Webito Infotech
+- 💻 **Junior PHP Developer** – Iclerisy Technologies
+- 💻 **Public Relations & R&D Intern** – Talrop (Kerala)
 
 ---
 
